@@ -1,10 +1,12 @@
 # Tippy
 
+> "Calculate tips, slide with style — meet Tippy!" 🚀
+
 Tippy is a smart and simple tip calculator built with Kotlin.  
 Just input your base amount, slide the tip percentage, and instantly see the tip amount and total!  
 Dynamic feedback (Poor, Average, Good, Great, Amazing) with vibrant color indicators makes it super intuitive.
 
-[![Watch the Demo](https://img.shields.io/badge/Watch-Demo-ff69b4?style=for-the-badge)](https://github.com/waris-ali-git/Tippy-Kotlin)
+[![Watch the Demo](https://img.shields.io/badge/Watch-Demo-ff69b4?style=for-the-badge)](https://github.com/waris-ali-git/Tippy-Kotlin/blob/main/Tippy.mp4)
 
 ---
 
@@ -17,8 +19,14 @@ Dynamic feedback (Poor, Average, Good, Great, Amazing) with vibrant color indica
 ---
 
 ## 📽️ Quick Demo
-Check out the working demo [**here**](https://github.com/waris-ali-git/Tippy-Kotlin) for the full experience!
+Check out the working demo [**here**](https://github.com/waris-ali-git/Tippy-Kotlin/blob/main/Tippy.mp4) for the full experience!
 
 ---
 
 ### Made with 💖 by [Waris](https://github.com/waris-ali-git)
+
+---
+
+Total Visitors till now
+![Visitors](https://visitor-badge.glitch.me/badge?page_id=waris-ali-git.Tippy-Kotlin)
+
