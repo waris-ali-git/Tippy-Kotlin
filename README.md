@@ -25,8 +25,3 @@ Check out the working demo [**here**](https://github.com/waris-ali-git/Tippy-Kot
 
 ### Made with 💖 by [Waris](https://github.com/waris-ali-git)
 
----
-
-Total Visitors till now
-![Visitors](https://visitor-badge.glitch.me/badge?page_id=waris-ali-git.Tippy-Kotlin)
-
