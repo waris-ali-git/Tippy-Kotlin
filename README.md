@@ -1,14 +1,24 @@
-# Tippy-Kotlin
-[![Watch the demo](https://img.shields.io/badge/Watch-Demo-ff69b4?style=for-the-badge)](https://github.com/waris-ali-git/Tippy-Kotlin/blob/main/Tippy.mp4)
+# Tippy
 
-> "Calculate tips, slide with style — meet Tippy!" 🚀
+Tippy is a smart and simple tip calculator built with Kotlin.  
+Just input your base amount, slide the tip percentage, and instantly see the tip amount and total!  
+Dynamic feedback (Poor, Average, Good, Great, Amazing) with vibrant color indicators makes it super intuitive.
 
-Tippy is a sleek and colorful Tip Calculator built with Kotlin.
-Enter a base amount, slide the tip percentage, and instantly see the updated tip, total amount, and a friendly rating — from Poor to Amazing — with dynamic colors ranging from fiery red 🔥 to lush green 🌿.
+[![Watch the Demo](https://img.shields.io/badge/Watch-Demo-ff69b4?style=for-the-badge)](https://github.com/waris-ali-git/Tippy-Kotlin)
 
-How it Works
-Input your base amount 💰
+---
 
-Adjust the tip % using a smooth slider 🎚️
+## ✨ Features
+- Enter base amount
+- Slide to adjust tip %
+- Real-time calculation of tip and total
+- Fun feedback with color transitions (Red ➔ Green)
 
-Get instant feedback: Tip amount, Total amount, and a fun Quality Label 🎯
+---
+
+## 📽️ Quick Demo
+Check out the working demo [**here**](https://github.com/waris-ali-git/Tippy-Kotlin) for the full experience!
+
+---
+
+### Made with 💖 by [Waris](https://github.com/waris-ali-git)
